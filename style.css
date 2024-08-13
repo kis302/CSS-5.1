@@ -1,0 +1,36 @@
+.header{
+    background-color: aquamarine;
+}
+h1{
+    color:blue;
+    padding:40px;
+}
+.first{
+    margin:30px;
+    padding-top:20px;
+
+
+}
+.sub{
+    height:70%;
+    width:400px;
+    display:inline-block;
+    border-radius: 2px;
+    background-color:grey
+    vertical-align:top;
+    margin:50px;
+    box-shadow:  5px 5px 10px black;
+
+
+}
+img{
+    width:400px;
+    height:300px;
+
+}
+.second{
+    margin:30px;
+}
+h2{
+    text-align:center;
+}
